@@ -1,34 +1,26 @@
 EliteWager
-Crypto-Powered Betting Platform
+Plateforme de Paris Alimentée par la Crypto
 
-EliteWager is a modern, fast, and clean betting application built entirely on cryptocurrency.
-The platform provides instant, secure, and borderless transactions using blockchain technology, with real-time odds and a smooth user experience.
+EliteWager est une application de paris moderne, rapide et épurée, entièrement basée sur la cryptomonnaie.
+La plateforme offre des transactions instantanées, sécurisées et sans frontières grâce à la technologie blockchain, avec des cotes en temps réel et une expérience utilisateur fluide.
 
-👥 Project Members
+👥 Membres du Projet
 
 Yahya Seqqaoui
-
 Taha Bennis
-
 Sami Ait Oufqir
 
 📌 Description
 
-EliteWager is a crypto-native betting platform designed for speed, simplicity, and transparency.
-The application uses blockchain integration to enable 100% crypto deposits, withdrawals, and wager settlements.
+EliteWager est une plateforme de paris crypto-native conçue pour la vitesse, la simplicité et la transparence.
+L’application utilise l’intégration blockchain pour permettre des dépôts, retraits et règlements de paris 100 % en cryptomonnaie.
 
-Key Features
+Fonctionnalités Clés
 
-⚡ Fast and responsive UI
-
-📊 Real-time odds & live match updates
-
-🪙 Crypto-only transactions
-
-🔐 Secure authentication
-
-💸 Instant blockchain payouts
-
-🎯 Clean and modern interface
-
-📱 Fully responsive design
+⚡ Interface rapide et réactive
+📊 Cotes en temps réel & mises à jour des matchs en direct
+🪙 Transactions exclusivement en crypto
+🔐 Authentification sécurisée
+💸 Paiements instantanés via blockchain
+🎯 Interface moderne et épurée
+📱 Design entièrement responsive
