@@ -1,5 +1,5 @@
 EliteWager
-Plateforme de Paris Alimentée par la Crypto
+Plateforme de Paris basée sur la Crypto
 
 EliteWager est une application de paris moderne, rapide et épurée, entièrement basée sur la cryptomonnaie.
 La plateforme offre des transactions instantanées, sécurisées et sans frontières grâce à la technologie blockchain, avec des cotes en temps réel et une expérience utilisateur fluide.
